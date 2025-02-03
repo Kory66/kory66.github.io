@@ -40,6 +40,12 @@ h1{
     border: 0px solid;
     border-color: red;
 }
+.kasapavel-text{
+    font-family: "Bricolage Grotesque";
+    font-size: 32px;
+    font-weight: 400;
+    color: #1b1b1b;
+    text-align: center;
 
 }
 .navbar{
